@@ -1,0 +1,11 @@
+127.0.0.1 - - [09/Oct/2023:18:15:06 +0900] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [09/Oct/2023:18:16:18 +0900] "GET /main.jsp HTTP/1.1" 404 738
+127.0.0.1 - - [09/Oct/2023:18:16:18 +0900] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [09/Oct/2023:18:17:08 +0900] "GET /Project/main.jsp HTTP/1.1" 200 6303
+127.0.0.1 - - [09/Oct/2023:18:17:08 +0900] "GET /Project/css/bootstrap.css HTTP/1.1" 200 315825
+127.0.0.1 - - [09/Oct/2023:18:17:08 +0900] "GET /Project/images/1.gif HTTP/1.1" 200 548675
+127.0.0.1 - - [09/Oct/2023:18:17:15 +0900] "GET /Project/main.jsp HTTP/1.1" 200 6303
+127.0.0.1 - - [09/Oct/2023:18:17:16 +0900] "GET /Project/bbs.jsp HTTP/1.1" 200 4516
+127.0.0.1 - - [09/Oct/2023:18:17:19 +0900] "GET /Project/login.jsp HTTP/1.1" 200 4706
+127.0.0.1 - - [09/Oct/2023:18:17:19 +0900] "GET /Project/css/custom.css HTTP/1.1" 200 201
+127.0.0.1 - - [09/Oct/2023:18:17:22 +0900] "POST /Project/loginAction.jsp HTTP/1.1" 200 242
